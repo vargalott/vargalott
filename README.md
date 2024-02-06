@@ -16,16 +16,9 @@
 
 <div align="center">
 :zap: Recent activity :zap:
+<br><br>
 
 <!--RECENT_ACTIVITY:start-->
-⬆️ Pushed 1 commit(s) to [vargalott/vargalott](https://github.com/vargalott/vargalott)<br>
-⬆️ Pushed 1 commit(s) to [vargalott/vargalott](https://github.com/vargalott/vargalott)<br>
-⬆️ Pushed 1 commit(s) to [vargalott/vargalott](https://github.com/vargalott/vargalott)<br>
-⬆️ Pushed 1 commit(s) to [vargalott/diploma-bachelor-nms](https://github.com/vargalott/diploma-bachelor-nms)<br>
-📔 Created new repository [vargalott/diploma-bachelor-nms](https://github.com/vargalott/diploma-bachelor-nms)<br>
-<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-02-06, 13:25:23
-<!--RECENT_ACTIVITY:last_update_end-->
 </div>
