@@ -11,3 +11,13 @@
     <img alt="GitHub Repos Per Language" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vargalott&theme=github_dark"/>
     <img alt="GitHub Most Commit Language" width="40%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vargalott&theme=github_dark"/>
 </div>
+
+---
+
+<div align="center">
+:zap: Recent activity :zap:
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:last_update-->
+</div>
