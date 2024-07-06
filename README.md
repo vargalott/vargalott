@@ -23,10 +23,9 @@
 ⭐ Starred [Mahdi-zarei/nekoray](https://github.com/Mahdi-zarei/nekoray)<br>
 ⭐ Starred [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)<br>
 ⭐ Starred [MatsuriDayo/nekoray](https://github.com/MatsuriDayo/nekoray)<br>
-⭐ Starred [vixfwis/factorio-printer](https://github.com/vixfwis/factorio-printer)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-07-06, 00:57:28
+Last updated at 2024-07-06, 12:22:05
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
