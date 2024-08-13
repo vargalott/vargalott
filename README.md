@@ -23,10 +23,9 @@
 ⭐ Starred [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)<br>
 ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
 ⭐ Starred [Mahdi-zarei/nekoray](https://github.com/Mahdi-zarei/nekoray)<br>
-⭐ Starred [xchacha20-poly1305/husi](https://github.com/xchacha20-poly1305/husi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-08-13, 01:02:57
+Last updated at 2024-08-13, 12:27:02
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
