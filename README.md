@@ -19,6 +19,7 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
 ⭐ Starred [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)<br>
 ⭐ Starred [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)<br>
 ⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
@@ -26,6 +27,6 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-08-19, 12:26:23
+Last updated at 2024-08-20, 01:01:21
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
