@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)<br>
 ⭐ Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)<br>
 ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
 ⭐ Starred [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)<br>
 ⭐ Starred [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)<br>
-⭐ Starred [zed-industries/zed](https://github.com/zed-industries/zed)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-08-23, 12:25:49
+Last updated at 2024-08-24, 01:00:45
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
