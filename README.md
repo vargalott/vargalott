@@ -23,10 +23,9 @@
 ⭐ Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)<br>
 ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
 ⭐ Starred [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)<br>
-⭐ Starred [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-10-11, 01:08:26
+Last updated at 2024-10-11, 12:28:24
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
