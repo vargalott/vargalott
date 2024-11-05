@@ -22,10 +22,9 @@
 ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)<br>
 ⭐ Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)<br>
 ⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
-⭐ Starred [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-11-05, 01:07:43
+Last updated at 2024-11-05, 12:27:07
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
