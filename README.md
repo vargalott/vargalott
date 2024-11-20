@@ -21,10 +21,9 @@
 <!--RECENT_ACTIVITY:start-->
 ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)<br>
 ⭐ Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)<br>
-⭐ Starred [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-11-20, 01:12:08
+Last updated at 2024-11-20, 12:30:21
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
