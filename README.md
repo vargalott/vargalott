@@ -20,10 +20,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 ⭐ Starred [zen-browser/desktop](https://github.com/zen-browser/desktop)<br>
-⭐ Starred [SagerNet/sing-box](https://github.com/SagerNet/sing-box)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-11-23, 01:11:01
+Last updated at 2024-11-23, 12:27:32
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
