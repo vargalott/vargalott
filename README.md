@@ -19,10 +19,11 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)<br>
 ⭐ Starred [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2024-12-20, 12:28:37
+Last updated at 2024-12-21, 01:08:18
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
