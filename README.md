@@ -19,11 +19,9 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
-⭐ Starred [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo)<br>
-⭐ Starred [MustardChef/WSABuilds](https://github.com/MustardChef/WSABuilds)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-01-30, 12:28:12
+Last updated at 2025-01-31, 01:07:47
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
