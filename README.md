@@ -19,10 +19,11 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine)<br>
 ⭐ Starred [amir20/dtop](https://github.com/amir20/dtop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-10-10, 12:34:22
+Last updated at 2025-10-11, 01:11:16
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
