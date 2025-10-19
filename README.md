@@ -19,11 +19,12 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [UhExooHw/sim-spoof](https://github.com/UhExooHw/sim-spoof)<br>
 ⭐ Starred [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine)<br>
 ⭐ Starred [amir20/dtop](https://github.com/amir20/dtop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-10-19, 01:23:59
+Last updated at 2025-10-19, 12:30:46
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
