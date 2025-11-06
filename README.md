@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br>
 ⭐ Starred [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel)<br>
 ⭐ Starred [vernette/ipregion](https://github.com/vernette/ipregion)<br>
 ⭐ Starred [UhExooHw/sim-spoof](https://github.com/UhExooHw/sim-spoof)<br>
 ⭐ Starred [meel-hd/lofi-engine](https://github.com/meel-hd/lofi-engine)<br>
-⭐ Starred [amir20/dtop](https://github.com/amir20/dtop)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-11-06, 01:19:37
+Last updated at 2025-11-06, 12:35:41
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
