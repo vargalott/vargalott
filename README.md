@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
 ⭐ Starred [adi1090x/rofi](https://github.com/adi1090x/rofi)<br>
 ⭐ Starred [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT)<br>
 ⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br>
 ⭐ Starred [zen-kernel/zen-kernel](https://github.com/zen-kernel/zen-kernel)<br>
-⭐ Starred [vernette/ipregion](https://github.com/vernette/ipregion)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-11-08, 12:31:05
+Last updated at 2025-11-09, 01:22:32
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
