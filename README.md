@@ -23,10 +23,9 @@
 ⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
 ⭐ Starred [adi1090x/rofi](https://github.com/adi1090x/rofi)<br>
 ⭐ Starred [ilya-zlobintsev/LACT](https://github.com/ilya-zlobintsev/LACT)<br>
-⭐ Starred [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-12-06, 12:33:18
+Last updated at 2025-12-07, 01:37:41
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
