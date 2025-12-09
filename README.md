@@ -21,10 +21,9 @@
 <!--RECENT_ACTIVITY:start-->
 ⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)<br>
 ⭐ Starred [SimplyCEO/wofi](https://github.com/SimplyCEO/wofi)<br>
-⭐ Starred [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-12-08, 12:37:48
+Last updated at 2025-12-09, 01:21:54
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
