@@ -20,10 +20,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 ⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)<br>
-⭐ Starred [SimplyCEO/wofi](https://github.com/SimplyCEO/wofi)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2025-12-14, 12:34:25
+Last updated at 2025-12-15, 01:26:38
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
