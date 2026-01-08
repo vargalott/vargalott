@@ -20,10 +20,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 ⭐ Starred [PaulCombal/SamRewritten](https://github.com/PaulCombal/SamRewritten)<br>
-⭐ Starred [adi1090x/plymouth-themes](https://github.com/adi1090x/plymouth-themes)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-01-07, 12:40:04
+Last updated at 2026-01-08, 01:27:11
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
