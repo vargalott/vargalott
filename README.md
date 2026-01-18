@@ -19,6 +19,7 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia)<br>
 ⭐ Starred [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev)<br>
 ⭐ Starred [Kindness-Kismet/Stelliberty](https://github.com/Kindness-Kismet/Stelliberty)<br>
 ⭐ Starred [AvenCores/goida-vpn-configs](https://github.com/AvenCores/goida-vpn-configs)<br>
@@ -26,6 +27,6 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-01-18, 01:42:43
+Last updated at 2026-01-18, 12:35:20
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
