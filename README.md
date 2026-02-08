@@ -22,11 +22,11 @@
 ⭐ Starred [apognu/tuigreet](https://github.com/apognu/tuigreet)<br>
 ⭐ Starred [XansiVA/nirimation](https://github.com/XansiVA/nirimation)<br>
 ⭐ Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)<br>
-⭐ Starred [YaLTeR/niri](https://github.com/YaLTeR/niri)<br>
+⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)<br>
 ⭐ Starred [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-02-08, 02:22:53
+Last updated at 2026-02-08, 12:43:19
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
