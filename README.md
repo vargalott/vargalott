@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)<br>
+⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)<br>
 ⭐ Starred [apognu/tuigreet](https://github.com/apognu/tuigreet)<br>
 ⭐ Starred [XansiVA/nirimation](https://github.com/XansiVA/nirimation)<br>
 ⭐ Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)<br>
-⭐ Starred [niri-wm/niri](https://github.com/niri-wm/niri)<br>
-⭐ Starred [igareck/vpn-configs-for-russia](https://github.com/igareck/vpn-configs-for-russia)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-02-09, 02:00:28
+Last updated at 2026-02-09, 13:02:58
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
