@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [morhetz/gruvbox](https://github.com/morhetz/gruvbox)<br>
 ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)<br>
 ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)<br>
 ⭐ Starred [apognu/tuigreet](https://github.com/apognu/tuigreet)<br>
 ⭐ Starred [XansiVA/nirimation](https://github.com/XansiVA/nirimation)<br>
-⭐ Starred [SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-02-11, 13:03:56
+Last updated at 2026-02-12, 01:59:30
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
