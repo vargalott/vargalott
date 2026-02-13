@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [eza-community/eza](https://github.com/eza-community/eza)<br>
+⭐ Starred [tsowell/wiremix](https://github.com/tsowell/wiremix)<br>
 ⭐ Starred [morhetz/gruvbox](https://github.com/morhetz/gruvbox)<br>
 ⭐ Starred [junegunn/fzf](https://github.com/junegunn/fzf)<br>
 ⭐ Starred [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide)<br>
-⭐ Starred [apognu/tuigreet](https://github.com/apognu/tuigreet)<br>
-⭐ Starred [XansiVA/nirimation](https://github.com/XansiVA/nirimation)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-02-12, 13:01:51
+Last updated at 2026-02-13, 02:02:35
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
