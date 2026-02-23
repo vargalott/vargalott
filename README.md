@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [Morganamilo/paru](https://github.com/Morganamilo/paru)<br>
 ⭐ Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)<br>
 ⭐ Starred [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)<br>
 ⭐ Starred [gustavothecoder/gruvbox-material-gtk](https://github.com/gustavothecoder/gruvbox-material-gtk)<br>
 ⭐ Starred [Flowseal/zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube)<br>
-⭐ Starred [eza-community/eza](https://github.com/eza-community/eza)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-02-22, 12:43:01
+Last updated at 2026-02-23, 01:58:22
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
