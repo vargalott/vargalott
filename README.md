@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [yrutschle/sslh](https://github.com/yrutschle/sslh)<br>
 ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
 ⭐ Starred [Runnin4ik/dpi-detector](https://github.com/Runnin4ik/dpi-detector)<br>
 ⭐ Starred [Morganamilo/paru](https://github.com/Morganamilo/paru)<br>
 ⭐ Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)<br>
-⭐ Starred [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-03-12, 12:54:35
+Last updated at 2026-03-13, 01:53:18
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
