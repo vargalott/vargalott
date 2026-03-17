@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab)<br>
 ⭐ Starred [yrutschle/sslh](https://github.com/yrutschle/sslh)<br>
 ⭐ Starred [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden)<br>
 ⭐ Starred [Runnin4ik/dpi-detector](https://github.com/Runnin4ik/dpi-detector)<br>
 ⭐ Starred [Morganamilo/paru](https://github.com/Morganamilo/paru)<br>
-⭐ Starred [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-03-16, 13:05:36
+Last updated at 2026-03-17, 01:56:15
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
