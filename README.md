@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [bol-van/zapret](https://github.com/bol-van/zapret)<br>
 ⭐ Starred [hxehex/russia-mobile-internet-whitelist](https://github.com/hxehex/russia-mobile-internet-whitelist)<br>
 ⭐ Starred [telemt/telemt](https://github.com/telemt/telemt)<br>
 ⭐ Starred [WhitePrime/xraycheck](https://github.com/WhitePrime/xraycheck)<br>
 ⭐ Starred [abhixdd/ghgrab](https://github.com/abhixdd/ghgrab)<br>
-⭐ Starred [yrutschle/sslh](https://github.com/yrutschle/sslh)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-03-30, 13:13:43
+Last updated at 2026-03-31, 02:07:31
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
