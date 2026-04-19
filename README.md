@@ -21,11 +21,9 @@
 <!--RECENT_ACTIVITY:start-->
 ⭐ Starred [runetfreedom/per-app-split-bypass-poc](https://github.com/runetfreedom/per-app-split-bypass-poc)<br>
 ⭐ Starred [bol-van/zapret](https://github.com/bol-van/zapret)<br>
-⭐ Starred [hxehex/russia-mobile-internet-whitelist](https://github.com/hxehex/russia-mobile-internet-whitelist)<br>
-⭐ Starred [telemt/telemt](https://github.com/telemt/telemt)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-04-18, 12:57:06
+Last updated at 2026-04-19, 02:28:43
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
