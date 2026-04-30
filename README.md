@@ -22,10 +22,9 @@
 ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
 ⭐ Starred [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)<br>
 ⭐ Starred [runetfreedom/per-app-split-bypass-poc](https://github.com/runetfreedom/per-app-split-bypass-poc)<br>
-⭐ Starred [bol-van/zapret](https://github.com/bol-van/zapret)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-04-29, 13:49:17
+Last updated at 2026-04-30, 02:42:18
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
