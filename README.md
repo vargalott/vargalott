@@ -19,9 +19,12 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
+⭐ Starred [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)<br>
+⭐ Starred [runetfreedom/per-app-split-bypass-poc](https://github.com/runetfreedom/per-app-split-bypass-poc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-05-01, 02:49:04
+Last updated at 2026-05-01, 13:13:46
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
