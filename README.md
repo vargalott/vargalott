@@ -19,6 +19,7 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd)<br>
 ⭐ Starred [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk)<br>
 ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
 ⭐ Starred [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)<br>
@@ -26,6 +27,6 @@
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-05-04, 02:38:26
+Last updated at 2026-05-04, 13:53:12
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
