@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)<br>
 ⭐ Starred [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd)<br>
 ⭐ Starred [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk)<br>
 ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
 ⭐ Starred [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)<br>
-⭐ Starred [runetfreedom/per-app-split-bypass-poc](https://github.com/runetfreedom/per-app-split-bypass-poc)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-05-06, 02:36:30
+Last updated at 2026-05-06, 14:02:53
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
