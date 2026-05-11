@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)<br>
 ⭐ Starred [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)<br>
 ⭐ Starred [MetaCubeX/metacubexd](https://github.com/MetaCubeX/metacubexd)<br>
 ⭐ Starred [taamarin/box_for_magisk](https://github.com/taamarin/box_for_magisk)<br>
 ⭐ Starred [localsend/localsend](https://github.com/localsend/localsend)<br>
-⭐ Starred [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-05-11, 02:52:40
+Last updated at 2026-05-11, 14:43:34
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
