@@ -19,14 +19,9 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
-⭐ Starred [luanti-org/luanti](https://github.com/luanti-org/luanti)<br>
-⭐ Starred [JB-SelfCompany/Tyr-Desktop](https://github.com/JB-SelfCompany/Tyr-Desktop)<br>
-⭐ Starred [JB-SelfCompany/Tyr](https://github.com/JB-SelfCompany/Tyr)<br>
-⭐ Starred [masterking32/MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN)<br>
-⭐ Starred [MayersScott/rkn-block-checker](https://github.com/MayersScott/rkn-block-checker)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-05-15, 02:54:58
+Last updated at 2026-05-15, 14:00:26
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
