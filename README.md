@@ -19,14 +19,14 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
+⭐ Starred [Andrey0189/arch-dotfiles](https://github.com/Andrey0189/arch-dotfiles)<br>
 ⭐ Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)<br>
 ⭐ Starred [Vemestael/ArcheryShotCounter](https://github.com/Vemestael/ArcheryShotCounter)<br>
 ⭐ Starred [luanti-org/luanti](https://github.com/luanti-org/luanti)<br>
 ⭐ Starred [JB-SelfCompany/Tyr-Desktop](https://github.com/JB-SelfCompany/Tyr-Desktop)<br>
-⭐ Starred [JB-SelfCompany/Tyr](https://github.com/JB-SelfCompany/Tyr)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-05-26, 02:53:20
+Last updated at 2026-05-26, 15:17:59
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
