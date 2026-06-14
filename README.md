@@ -23,10 +23,9 @@
 ⭐ Starred [Andrey0189/arch-dotfiles](https://github.com/Andrey0189/arch-dotfiles)<br>
 ⭐ Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)<br>
 ⭐ Starred [Vemestael/ArcheryShotCounter](https://github.com/Vemestael/ArcheryShotCounter)<br>
-⭐ Starred [luanti-org/luanti](https://github.com/luanti-org/luanti)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-06-13, 13:53:26
+Last updated at 2026-06-14, 03:44:38
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
