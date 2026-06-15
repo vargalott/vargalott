@@ -22,10 +22,9 @@
 ⭐ Starred [wayle-rs/wayle](https://github.com/wayle-rs/wayle)<br>
 ⭐ Starred [Andrey0189/arch-dotfiles](https://github.com/Andrey0189/arch-dotfiles)<br>
 ⭐ Starred [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe)<br>
-⭐ Starred [Vemestael/ArcheryShotCounter](https://github.com/Vemestael/ArcheryShotCounter)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-06-14, 13:56:31
+Last updated at 2026-06-15, 03:59:46
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
