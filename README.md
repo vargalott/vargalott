@@ -20,10 +20,9 @@
 
 <!--RECENT_ACTIVITY:start-->
 ⭐ Starred [wayle-rs/wayle](https://github.com/wayle-rs/wayle)<br>
-⭐ Starred [Andrey0189/arch-dotfiles](https://github.com/Andrey0189/arch-dotfiles)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-06-25, 14:26:12
+Last updated at 2026-06-26, 03:27:00
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
