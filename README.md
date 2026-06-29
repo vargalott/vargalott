@@ -19,10 +19,9 @@
 <br><br>
 
 <!--RECENT_ACTIVITY:start-->
-⭐ Starred [wayle-rs/wayle](https://github.com/wayle-rs/wayle)<br>
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last updated at 2026-06-28, 13:40:17
+Last updated at 2026-06-29, 03:37:44
 <!--RECENT_ACTIVITY:last_update_end-->
 </div>
